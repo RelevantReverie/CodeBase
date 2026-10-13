@@ -1,0 +1,8 @@
+# Optional tools — install only what the datasets you want actually need.
+# The scripts fall back to printed instructions when a tool is missing, so
+# nothing here is strictly required to run them.
+
+kaggle            # WLASL, ASL Citizen  (Kaggle mirrors)   -> needs ~/.kaggle/kaggle.json
+yt-dlp            # MS-ASL videos (fetched from YouTube)
+gdown             # any dataset you switch to method='gdrive' (Google Drive)
+huggingface_hub   # any dataset you add with method='hf'

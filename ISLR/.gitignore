@@ -1,0 +1,6 @@
+# downloaded datasets (generated at runtime)
+data/
+
+# python
+__pycache__/
+*.pyc
