@@ -1,0 +1,3 @@
+# ST-GCN (AAAI 2018) - fixed partitioned graph + learnable edge importance.
+# Training shared with the others for a fair comparison.
+base_channels: 64

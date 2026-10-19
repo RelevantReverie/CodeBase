@@ -1,0 +1,2 @@
+# MS-G3D (CVPR 2020) - disentangled multi-scale graph conv (G3D window omitted).
+base_channels: 64

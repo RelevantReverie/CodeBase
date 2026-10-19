@@ -1,0 +1,3 @@
+# InfoGCN (CVPR 2022) - self-attention graph conv (SA-GC).
+# Information-bottleneck loss omitted so all models share one loss (can be added).
+base_channels: 64

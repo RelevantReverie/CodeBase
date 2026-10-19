@@ -1,0 +1,10 @@
+# Shared training config (Phase 9). Per-model files override only what they must,
+# so the comparison stays fair. num_class is inferred from the data if omitted.
+epochs: 100
+batch_size: 32
+lr: 0.1
+weight_decay: 0.0005
+warmup: 5
+label_smoothing: 0.1
+base_channels: 64
+seed: 1

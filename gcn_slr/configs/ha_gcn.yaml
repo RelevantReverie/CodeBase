@@ -1,0 +1,3 @@
+# HA-GCN (Song et al., 2024) - hand-aware: global body graph + 2 hand sub-graphs,
+# adaptive DropGraph. The sign-language-native model in this set.
+base_channels: 64

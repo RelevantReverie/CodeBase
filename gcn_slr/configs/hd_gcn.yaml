@@ -1,0 +1,2 @@
+# HD-GCN (ICCV 2023) - hierarchically decomposed graph + attention aggregation.
+base_channels: 64

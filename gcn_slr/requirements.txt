@@ -1,0 +1,10 @@
+# Core (training / eval)
+torch>=2.0
+numpy>=1.23
+
+# Phase 2 pose extraction (only needed to turn videos into keypoints)
+mediapipe>=0.10
+opencv-python>=4.8
+
+# Optional
+PyYAML>=6.0        # full YAML configs (a minimal fallback parser is built in)
